@@ -37,9 +37,8 @@ modules/
 - **modules/** → Contiene los módulos reutilizables para distintos recursos (EC2, VPC, balanceadores, etc.).
 
 
-Cómo Iniciar
-´´´bash
-´´´
+-**Cómo Iniciar**
+
 1. Inicializar Terraform:
    ```bash
    terraform init
@@ -63,5 +62,6 @@ Cómo Iniciar
    ```bash
    terraform destroy -auto-approve
    ```
+
 
 
