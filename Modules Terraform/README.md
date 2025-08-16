@@ -58,3 +58,8 @@ modules/
    ```bash
    terraform apply -auto-approve
    ```
+5. Destruir la infraestructura:
+   ```bash
+   terraform destroy -auto-approve
+   ```
+
